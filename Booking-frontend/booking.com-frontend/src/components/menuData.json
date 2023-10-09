@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "label": "Phim",
+        "url": "/movies",
+        "children": [
+          {
+            "id": 2,
+            "label": "Phim Đang Chiếu",
+            "url": "/now-showing"
+          },
+          {
+            "id": 3,
+            "label": "Phim Sắp Chiếu",
+            "url": "/coming-soon-1"
+          }
+        ]
+      },
+    {
+      "id": 4,
+      "label": "Rạp CGV",
+      "url": "/",
+      "children": [
+        {
+          "id": 5,
+          "label": "Tất cả các rạp",
+          "url": "/cinox/site"
+        },
+        {
+          "id": 6,
+          "label": "Rạp Đặc Biệt",
+          "url": "/theaters/special/gold-class"
+        },
+        {
+            "id": 7,
+            "label": "Rạp 3D",
+            "url": "/theaters/special/3d"
+          }
+      ]
+    },
+    {
+        "id": 8,
+        "label": "Thành Viên",
+        "url": "/",
+        "children": [
+          {
+            "id": 9,
+            "label": "Tài Khoản CGV",
+            "url": "/customer/account/login"
+          },
+          {
+            "id": 10,
+            "label": "Quyền Lợi",
+            "url": "/cgv-membership"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "label": "CURTUREPLEX",
+        "url": "/",
+        "children": [
+          {
+            "id": 12,
+            "label": "Quầy Online",
+            "url": "/online-store/movie-voucher"
+          },
+          {
+            "id": 13,
+            "label": "Thuê Rạp & Vé Nhóm",
+            "url": "/cinemas/sale"
+          },
+          {
+            "id": 14,
+            "label": "E-CGV",
+            "url": "/cgv-online"
+          },
+          {
+            "id": 15,
+            "label": "CGV-EGIFT",
+            "url": "/gift"
+          },
+          {
+            "id": 16,
+            "label": "CGV RULERS",
+            "url": "/cgv-rules"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "label": "Tuyển Dụng",
+        "url": "/careers",
+        "children": [
+          {
+            "id": 18,
+            "label": "Tuyển Dụng",
+            "url": "/careers"
+          },
+          {
+            "id": 19,
+            "label": "Khối Văn Phòng",
+            "url": "/?category=13"
+          },
+          {
+            "id": 20,
+            "label": "Khối Cụm Rạp",
+            "url": "/?category=16"
+          }
+        ]
+      }
+    
+  ]
+  
